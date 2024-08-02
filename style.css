@@ -52,7 +52,8 @@ body{
     border-radius: 8px;
 }
 .a1{
-align-content: center;
-text-decoration:none ;
-
+text-align: center;
+}
+.button{
+    justify-content: center;
 }
