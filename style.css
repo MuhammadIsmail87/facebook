@@ -1,0 +1,58 @@
+body{
+    background-color: #F2F4F7;
+    margin: 0px;
+}
+.image1{
+    width: 320px;
+    height: 106px;
+    padding: 0px 0px 0px;
+    margin: 0px;
+}
+.child1{
+    width: 500px;
+    height: 84px;
+    padding: 0px 0px 20px;
+}
+.button{
+    background-color: #36A420;
+    color: white;
+    border: 0;
+    border-radius: 4px;
+}
+.gparent{
+    display: flex;
+    padding: 200px 200px 200px 400px;
+    gap: 100px;
+    background-color: #F2F4F7;
+}
+.child2{
+    background-color: white;
+    border-radius: 8px;
+    height: 349px;
+    width: 396;
+    /* margin: 40px 0px 0px; */
+    padding: 10px 0px 10px 20px;
+    align-content: center;
+    /* justify-content: center; */
+}
+.email{
+ justify-content: center;
+ width: 344px;
+ height: 54px;
+ border: 1px solid gainsboro ;
+
+ border-radius: 8px;
+}
+.password{
+    justify-content: center;
+    width: 344px;
+    height: 54px;
+    border: 1px solid gainsboro ;
+   
+    border-radius: 8px;
+}
+.a1{
+align-content: center;
+text-decoration:none ;
+
+}
